@@ -14,4 +14,6 @@
 
 -Definindo a proteção de branch (assinadas e autorizadas).
 
+-Adicionando templates para pull requests
+
 ---
