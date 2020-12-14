@@ -9,7 +9,9 @@
 * ## Protegendo branchs
 
 -Implementando Pull Request.
+
 -Definindo a branch __develop__ como default.
+
 -Definindo a proteção de branch (assinadas e autorizadas).
 
 ---
