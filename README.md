@@ -29,3 +29,9 @@
 -Definindo gerenciadores
 
 ---
+
+* ## Semantical Versioning
+
+-https://semver.org/lang/pt-BR/
+
+---
