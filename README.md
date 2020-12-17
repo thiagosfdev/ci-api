@@ -29,3 +29,15 @@
 -Definindo gerenciadores
 
 ---
+
+* ## Semantical Versioning
+
+-https://semver.org/lang/pt-BR/
+
+---
+
+* ## Conventional Commits
+
+-https://www.conventionalcommits.org/pt-br/v1.0.0/
+
+---
