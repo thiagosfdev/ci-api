@@ -17,3 +17,9 @@
 -Adicionando templates para pull requests
 
 ---
+
+* ## Code Reviews
+
+-Definindo revisores
+
+---
