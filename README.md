@@ -23,3 +23,9 @@
 -Definindo revisores
 
 ---
+
+* ## Code Owners
+
+-Definindo gerenciadores
+
+---
