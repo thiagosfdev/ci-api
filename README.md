@@ -52,3 +52,11 @@
 -https://github.com/marketplace?type=actions
 
 ---
+
+* ## Status Check para o CI e Strategy Matrix para o workflow
+
+-Restringido pull_request para status check
+
+-Configurado o Strategy Matrix no workflow
+
+---
