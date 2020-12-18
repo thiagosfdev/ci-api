@@ -47,3 +47,8 @@
 -https://commitlint.js.org/#/
 
 ---
+* ## CI com GitHub Actions
+
+-https://github.com/marketplace?type=actions
+
+---
