@@ -4,7 +4,8 @@
   "description": "* ## Assinando commits",
   "main": "teste.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node operations.js"
   },
   "repository": {
     "type": "git",
