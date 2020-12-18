@@ -60,3 +60,11 @@
 -Configurado o Strategy Matrix no workflow
 
 ---
+
+* ## Build
+
+-Gerado build da imagem docker em cada pull_request
+
+-https://github.com/marketplace/actions/build-and-push-docker-images
+
+---
