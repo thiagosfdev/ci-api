@@ -14,6 +14,7 @@ jobs:
           - 12
         architecture:
           - x64
+    name: Running in NodeJS ${{ matrix.node }} - ${{ matrix.architecture }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
