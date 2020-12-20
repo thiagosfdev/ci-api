@@ -68,3 +68,11 @@
 -https://github.com/marketplace/actions/build-and-push-docker-images
 
 ---
+
+* ## Push automático
+
+-Gerado push automático da imagem docker em cada pull_request para o DockerHub
+
+-Configurado usuário e token de acesso entre GitHub e DockerHub
+
+---
