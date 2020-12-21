@@ -4,8 +4,8 @@
   "description": "* ## Assinando commits",
   "main": "teste.js",
   "scripts": {
-    "test": "jest",
-    "start": "node operations.js"
+    "test": "jest --coverage",
+    "start": "node src/operations.js"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,9 @@
     "@commitlint/config-conventional": "^11.0.0",
     "husky": "^4.3.6",
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.19",
+    "sonar-scanner": "^3.1.0"
   }
 }
