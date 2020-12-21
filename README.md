@@ -76,3 +76,11 @@
 -Configurado usuário e token de acesso entre GitHub e DockerHub
 
 ---
+
+* ## Sonarqube
+
+-Integrado o Sonarqube ao projeto
+
+-https://www.sonarqube.org/
+
+---
