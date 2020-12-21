@@ -5,7 +5,7 @@
   "main": "teste.js",
   "scripts": {
     "test": "jest --coverage",
-    "start": "node operations.js"
+    "start": "node src/operations.js"
   },
   "repository": {
     "type": "git",
